@@ -1,0 +1,16 @@
+.counter{
+     
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(219, 223, 227);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.bim button{
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:rgb(243, 243, 199);
+    border-radius: 15px;
+    margin-left: 20px;
+}
